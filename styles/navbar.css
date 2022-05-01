@@ -1,0 +1,14 @@
+#navbar{
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid blue;
+}
+#option{
+    display: flex;
+    padding-right: 50px;
+    gap:20px;
+}
+#container{
+    margin: 10% 100px auto 20%;
+    box-shadow: inset;
+}
